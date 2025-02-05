@@ -1,5 +1,5 @@
-# This is h1 title
-### This is h3 title
+# Hello! Welcome to my github page
+### This is for practice
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 $ git init
